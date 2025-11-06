@@ -1,0 +1,14 @@
+# CUDA/C++ Specific Ignores
+*.o         # Object files
+*.out       # Executable output
+*.exe       # Executable file
+*.lib       # Library files
+*.exp       # Export file
+
+# Example binaries from the PPT demonstration
+smaller_data.exe
+bigger_data.exe
+
+# Operating System files
+.DS_Store
+Thumbs.db
