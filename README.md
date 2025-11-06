@@ -28,10 +28,11 @@ The project validates the efficacy of parallel processing on GPUs by comparing C
 The full findings of this work have been published as a preprint:
 
 * [cite_start]**Title:** GPU Programming and High-Performance Computing Optimization: A CUDA-Based Research Perspective [cite: 1462]
-* **Authors:** Jaltare, Abhas Ajay and Pai, Anusha Raghavendra
+* **Authors:** Jaltare Abhas Ajay and Pai Anusha Raghavendra
 * **DOI:** [10.36227/techrxiv.175427098.84903580/v1](http://dx.doi.org/10.36227/techrxiv.175427098.84903580/v1)
+* **LINK:** https://www.techrxiv.org/users/949778/articles/1319368-gpu-programming-and-high-performance-computing-optimization-a-cuda-based-research-perspective
 
-## 🛠️ Technologies Used
+## Technologies Used
 * **Platform:** NVIDIA CUDA
 * **Language:** C/C++ (with CUDA Kernels)
 * **Compiler:** NVCC
